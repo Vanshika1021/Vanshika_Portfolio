@@ -64,7 +64,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 If you have any questions or suggestions, feel free to reach out:
 
 - **Name**: Vanshika
-- **Email**: [your-vanitripathi1021@gmail.com](mailto:vanitripathi1021@gmail.com)
+- **Email**: [vanitripathi1021@gmail.com](mailto:vanitripathi1021@gmail.com)
 - **GitHub**: [Vanshika1021](https://github.com/Vanshika1021)
 
 ---
